@@ -4,7 +4,7 @@ import speech_recognition as sr
 
 import pyttsx3
 
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 messages = [
     {"role": "system", "content": "You are a kind helpful assistant."},
 ]
